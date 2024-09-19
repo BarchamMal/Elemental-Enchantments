@@ -27,5 +27,4 @@ replay_pid*
 *.DS_Store
 /run
 /.idea
-/.gradle
 /build

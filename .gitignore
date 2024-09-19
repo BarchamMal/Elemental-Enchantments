@@ -1,29 +1,43 @@
-# Compiled class file
-*.class
+# gradle
 
-# Log file
-*.log
+.gradle/
+build/
+out/
+classes/
 
-# BlueJ files
-*.ctxt
+# eclipse
 
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
+*.launch
 
-# Package Files #
-*.war
-*.nar
-*.ear
-*.tar.gz
-*.rar
+# idea
 
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
-hs_err_pid*
-replay_pid*
+.idea/
+*.iml
+*.ipr
+*.iws
 
-# Freeking DS_Store files and other stuff
+# vscode
+
+.settings/
+.vscode/
+bin/
+.classpath
+.project
+
+# macos
+
 *.DS_Store
-/run
-/.idea
-/build
-/.gradle
+
+# fabric
+
+run/
+
+# java
+
+hs_err_*.log
+replay_*.log
+*.hprof
+*.jfr
+ignore/
+*.blend
+*.blend1

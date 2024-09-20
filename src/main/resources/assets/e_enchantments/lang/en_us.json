@@ -6,5 +6,9 @@
   "enchantment.e_enchantments.magic_aspect": "Magic Aspect",
   "enchantment.e_enchantments.poison_aspect": "Poison Aspect",
   "enchantment.e_enchantments.sonic_aspect": "Sonic Aspect",
-  "enchantment.e_enchantments.wither_aspect": "Wither Aspect"
+  "enchantment.e_enchantments.wither_aspect": "Wither Aspect",
+  "enchantment.e_enchantments.cold_protection": "Cold Protection",
+  "enchantment.e_enchantments.magic_protection": "Magic Protection",
+  "enchantment.e_enchantments.negative_protection": "Negative Energy Protection",
+  "enchantment.e_enchantments.weather_protection": "Weather Protection"
 }

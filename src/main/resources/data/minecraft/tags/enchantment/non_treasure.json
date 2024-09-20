@@ -8,6 +8,10 @@
     "e_enchantments:magic_aspect",
     "e_enchantments:poison_aspect",
     "e_enchantments:sonic_aspect",
-    "e_enchantments:wither_aspect"
+    "e_enchantments:wither_aspect",
+    "e_enchantments:cold_protection",
+    "e_enchantments:magic_protection",
+    "e_enchantments:negative_protection",
+    "e_enchantments:weather_protection"
   ]
 }

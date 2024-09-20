@@ -1,7 +1,7 @@
 {
   "anvil_cost": 4,
   "description": {
-    "translate": "enchantment.e_enchantments.magic_aspect"
+    "translate": "enchantment.e_enchantments.ender_aspect"
   },
   "effects": {
     "minecraft:post_attack": [

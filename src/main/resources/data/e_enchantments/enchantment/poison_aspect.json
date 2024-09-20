@@ -1,7 +1,7 @@
 {
   "anvil_cost": 4,
   "description": {
-    "translate": "enchantment.e_enchantments.wither_aspect"
+    "translate": "enchantment.e_enchantments.poison_aspect"
   },
   "effects": {
     "minecraft:post_attack": [

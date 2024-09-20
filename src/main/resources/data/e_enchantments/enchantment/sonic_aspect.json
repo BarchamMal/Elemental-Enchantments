@@ -1,7 +1,7 @@
 {
   "anvil_cost": 4,
   "description": {
-    "translate": "enchantment.e_enchantments.frost_aspect"
+    "translate": "enchantment.e_enchantments.sonic_aspect"
   },
   "effects": {
     "minecraft:post_attack": [

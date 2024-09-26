@@ -10,5 +10,20 @@
   "enchantment.e_enchantments.cold_protection": "Cold Protection",
   "enchantment.e_enchantments.magic_protection": "Magic Protection",
   "enchantment.e_enchantments.negative_protection": "Negative Energy Protection",
-  "enchantment.e_enchantments.weather_protection": "Weather Protection"
+  "enchantment.e_enchantments.weather_protection": "Weather Protection",
+  "enchantment.e_enchantments.wither_walker": "Wither Walker",
+  "enchantment.e_enchantments.wind": "Wind",
+  "enchantment.e_enchantments.ender": "Ender",
+  "enchantment.e_enchantments.frost": "Frost",
+  "enchantment.e_enchantments.lightning": "Lightning",
+  "enchantment.e_enchantments.magic": "Magic",
+  "enchantment.e_enchantments.poison": "Poison",
+  "enchantment.e_enchantments.sonic": "Sonic",
+  "enchantment.e_enchantments.wither": "Wither",
+  "enchantment.e_enchantments.fishes_bane": "Fishes's Bane",
+  "enchantment.e_enchantments.holy_sword": "Holy Sword",
+  "enchantment.e_enchantments.butchering": "Butchering",
+  "enchantment.e_enchantments.nose_pick": "Nose Pick",
+  "enchantment.e_enchantments.beginning": "Beginning",
+  "enchantment.e_enchantments.players_bane": "Player's Bane"
 }

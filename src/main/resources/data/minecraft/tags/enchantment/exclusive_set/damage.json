@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "e_enchantments:fishes_bane",
+    "e_enchantments:holy_sword",
+    "e_enchantments:beginning",
+    "e_enchantments:nose_pick",
+    "e_enchantments:players_bane",
+    "e_enchantments:butchering"
+  ]
+}

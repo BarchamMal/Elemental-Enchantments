@@ -1,0 +1,13 @@
+{
+  "values": [
+    "e_enchantments:wind",
+    "e_enchantments:frost",
+    "e_enchantments:ender",
+    "e_enchantments:lightning",
+    "e_enchantments:magic",
+    "e_enchantments:poison",
+    "e_enchantments:sonic",
+    "e_enchantments:wither",
+    "minecraft:flame"
+  ]
+}

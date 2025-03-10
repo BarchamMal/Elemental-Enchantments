@@ -40,5 +40,7 @@ replay_*.log
 *.hprof
 *.jfr
 ignore/
+
+# Blender files
 *.blend
 *.blend1

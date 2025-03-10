@@ -5,6 +5,10 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.0.3] - 2025-3-10
+### Updated
+- to 1.21.4
+
 ## [1.0.2] - 2023-9-26
 ### Added
 - Ender enchantment
@@ -62,6 +66,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Wither Aspect enchantment
 - Enchantment.Exclusive Set.Aspects tag
 
-[1.0.2]: https://github.com/BarchamMal/Elemental-Enchantments/commit/
+[1.0.3]: https://github.com/BarchamMal/Elemental-Enchantments/commit/
+[1.0.2]: https://github.com/BarchamMal/Elemental-Enchantments/commit/62741ea8e5bccd144c75c72e8efce833549d16f7
 [1.0.1]: https://github.com/BarchamMal/Elemental-Enchantments/commit/db5f2d9c8e3389e8f954076c0028e8ddfaa9241d
 [1.0.0]: https://github.com/BarchamMal/Elemental-Enchantments/commit/b53963862d2b01729fdd7d1dacf89693e2534a67

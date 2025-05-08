@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "e_enchantments:cold_protection",
+    "e_enchantments:magic_protection",
+    "e_enchantments:negative_protection",
+    "e_enchantments:weather_protection"
+  ]
+}

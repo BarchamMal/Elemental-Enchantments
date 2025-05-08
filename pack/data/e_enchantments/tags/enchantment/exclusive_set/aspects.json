@@ -1,0 +1,13 @@
+{
+  "values": [
+    "minecraft:fire_aspect",
+    "e_enchantments:air_aspect",
+    "e_enchantments:ender_aspect",
+    "e_enchantments:frost_aspect",
+    "e_enchantments:lightning_aspect",
+    "e_enchantments:magic_aspect",
+    "e_enchantments:poison_aspect",
+    "e_enchantments:sonic_aspect",
+    "e_enchantments:wither_aspect"
+  ]
+}

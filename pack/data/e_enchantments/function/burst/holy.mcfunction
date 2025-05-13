@@ -1,0 +1,1 @@
+particle minecraft:electric_spark ~ ~1 ~ 0.4 0.4 0.4 1 100 force

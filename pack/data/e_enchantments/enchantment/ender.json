@@ -6,10 +6,19 @@
       {
         "affected": "victim",
         "effect": {
-          "type": "minecraft:damage_entity",
-          "damage_type": "minecraft:dragon_breath",
-          "max_damage": 16.0,
-          "min_damage": 9.0
+          "type": "all_of",
+          "effects": [
+            {
+              "type": "minecraft:run_function",
+              "function": "e_enchantments:burst/magic"
+            },
+            {
+              "type": "minecraft:damage_entity",
+              "damage_type": "minecraft:dragon_breath",
+              "max_damage": 16.0,
+              "min_damage": 3.0
+            }
+          ]
         },
         "enchanted": "attacker",
         "requirements": {

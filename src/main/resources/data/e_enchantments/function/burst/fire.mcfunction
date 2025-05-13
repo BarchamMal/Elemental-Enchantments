@@ -1,0 +1,1 @@
+particle minecraft:flame ~ ~1 ~ 0.3 0.3 0.3 0.01 30 force

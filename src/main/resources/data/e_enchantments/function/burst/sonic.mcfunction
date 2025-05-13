@@ -1,0 +1,1 @@
+particle minecraft:sonic_boom ~ ~1 ~ .25 .25 .25 1 3 force

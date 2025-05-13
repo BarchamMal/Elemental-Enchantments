@@ -8,10 +8,19 @@
       {
         "affected": "victim",
         "effect": {
-          "type": "minecraft:damage_entity",
-          "damage_type": "minecraft:dragon_breath",
-          "max_damage": 16.0,
-          "min_damage": 9.0
+          "type": "minecraft:all_of",
+          "effects": [
+            {
+              "type": "minecraft:damage_entity",
+              "damage_type": "minecraft:dragon_breath",
+              "max_damage": 5.0,
+              "min_damage": 4.0
+            },
+            {
+              "type": "minecraft:run_function",
+              "function": "e_enchantments:burst/ender"
+            }
+          ]
         },
         "enchanted": "attacker",
         "requirements": {
@@ -19,11 +28,23 @@
             "type": "minecraft:enchantment_level",
             "amount": {
               "type": "minecraft:linear",
-              "base": 0.25,
-              "per_level_above_first": 0.125
+              "base": 0.5,
+              "per_level_above_first": 0.25
             }
           },
           "condition": "minecraft:random_chance"
+        }
+      }
+    ],
+    "minecraft:damage": [
+      {
+        "effect": {
+          "type": "minecraft:add",
+          "value": {
+            "type": "minecraft:linear",
+            "base": 4.0,
+            "per_level_above_first": 1
+          }
         }
       }
     ]
